@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lutfium/lutfium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=LUTFI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUG%20HUNTER%20%7C%20CYBER%20SECURITY&descAlignY=58&descSize=18">
 
-Here are some ideas to get you started:
+<a href="https://github.com/lutfium">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Web+Security+Researcher;Bug+Hunter;Vulnerability+Research;Security+Automation;AI+%2B+Cyber+Security" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## `whoami`
+
+```text
+┌──────────────────────────────────────────────┐
+│ USER                                         │
+├──────────────────────────────────────────────┤
+│ Name     : Lutfi Khoirul Umam                │
+│ Role     : Cyber Security Student            │
+│ Focus    : Bug Hunting & Web Security        │
+│ Interest : AI Agents & Security Automation   │
+│ Status   : Learning • Researching • Building │
+└──────────────────────────────────────────────┘
