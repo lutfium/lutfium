@@ -18,7 +18,7 @@
 ┌──────────────────────────────────────────────┐
 │ USER PROFILE                                 │
 ├──────────────────────────────────────────────┤
-│ Name     : Lutfi Umam                        │
+│ Name     : Lutfi Khoirul Umam                │
 │ Role     : Cyber Security Student            │
 │ Focus    : Bug Hunting & Web Security        │
 │ Interest : AI Agents & Security Automation   │
