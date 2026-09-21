@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="./assets/bughunter.gif" width="900">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=LUTFI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUG%20HUNTER%20%7C%20CYBER%20SECURITY&descAlignY=58&descSize=18">
 
 <a href="https://github.com/lutfium">
