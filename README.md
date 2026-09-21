@@ -2,7 +2,7 @@
 
 <img src="./lutfium_bughunter.gif" width="900">
 
-# LUTFIUMAM
+# LUTFI KHOIRUL UMAM
 
 ### 🐞 Bug Hunter · Cyber Security Student · Developer
 
