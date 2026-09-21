@@ -8,17 +8,4 @@
 
 </div>
 
----
 
-## `whoami`
-
-```text
-┌──────────────────────────────────────────────┐
-│ USER                                         │
-├──────────────────────────────────────────────┤
-│ Name     : Lutfi Khoirul Umam                │
-│ Role     : Cyber Security Student            │
-│ Focus    : Bug Hunting & Web Security        │
-│ Interest : AI Agents & Security Automation   │
-│ Status   : Learning • Researching • Building │
-└──────────────────────────────────────────────┘
